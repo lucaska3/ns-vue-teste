@@ -1,6 +1,6 @@
-# Digital Despachante
+# Protótipo de Aplicativo Native Script
 
-> App para Digiatal Despachante
+> Protótipo arcaico e pessoal para aplicações em native-script vue
 
 ## Usage
 
